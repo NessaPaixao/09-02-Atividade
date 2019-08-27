@@ -1,0 +1,12 @@
+body{
+    background-color: crimson;
+    color:white;
+    font-size: 20pt;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    font-size: 15pt;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkturquoise;
+}
